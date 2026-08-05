@@ -97,9 +97,9 @@ During this project, I gained hands-on experience with:
 
 ## 📸 Preview
 
-![Amazon Clone Homepage](screenshots/homepage.png)
-![Amazon Clone Homepage](screenshots/homepage.png)
-![Amazon Clone Homepage](screenshots/homepage.png)
+![Amazon Clone](images/.png)
+![Amazon Clone](images/homepage.png)
+![Amazon Clone](images/homepage.png)
 
 ---
 
