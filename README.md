@@ -97,8 +97,8 @@ During this project, I gained hands-on experience with:
 
 ## 📸 Preview
 
-![amazon-clone](images/Screenshot 2026-08-05 180631.png)
-![amazon-clone](images/Screenshot 2026-08-05 180719.png)
+![amazon-clone](images/Screenshot1.png)
+![amazon-clone](images/Screenshot.png)
 ![amazon-clone](images/Screenshot 2026-08-05 180542.png)
 
 ---
