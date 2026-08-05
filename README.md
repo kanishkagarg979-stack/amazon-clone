@@ -95,15 +95,8 @@ During this project, I gained hands-on experience with:
 
 ## 📸 Preview
 
-```
-screenshots/homepage.png
-```
-
-Then include:
-
-```markdown
 ![Amazon Clone Homepage](screenshots/homepage.png)
-```
+
 
 ---
 
