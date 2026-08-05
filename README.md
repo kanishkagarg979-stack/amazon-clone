@@ -37,16 +37,18 @@ The objective of this project was to practice creating a modern e-commerce websi
 
 ```
 amazon-clone/
-│── index.html
-│── style.css
-│── amazon_logo.png
-│── hero_image.jpg
-│── box4_image.jpg
-│── box5_image.jpg
-│── box7_image.jpg
-│── box8_image.jpg
-│── main.webp
-│── ...
+│─> index.html
+│─> style.css
+│─> amazon_logo.png
+│─> hero_image.jpg
+│─>box4_image.jpg
+│─> box5_image.jpg
+│─> box7_image.jpg
+│─>box8_image.jpg
+│─> main.webp
+│─> 81srQx8HNVL_AC_SY200_.jpg
+|->71-87y93B+L_AC_SY200_.jpg
+|->61VzVSbRTDL_AC_SY170_.jpg
 ```
 
 ---
